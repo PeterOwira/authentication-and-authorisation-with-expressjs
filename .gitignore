@@ -1,0 +1,4 @@
+/.zk
+node_modules
+.env*
+*.sqlite
